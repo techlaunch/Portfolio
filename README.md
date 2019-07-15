@@ -1,6 +1,9 @@
 # TechLaunch Portfolio
 Steps to create your own HTML portfolio to help you find a job.
 
+## Fork the repo
+Fork this repo to your own profile and pull the code to your own computer. Ask your professor if you need any help.
+
 ## Create a profile picture
 Take a selfie, make you look professional and smiling. Cut the image to be 512x512px and rename it to be "profile.jpg". Replace the picture in the "images" folder.
 
@@ -32,4 +35,4 @@ Update the section "Education" with the schools you had attended before. Feel fr
 If you would like your professors to give you a reference, ask Ibis and Salvi for a 400 characters text talking about you and your skills and qualities. You are welcome to add/replace with other references by adding their pictures with a size of 300x300 px in the folder "images\references".
 
 ## Post your portfolio
-Push your new portfolio to GitHub and pull it into your TechLaunch server. Make sure it opens when you access to the root of the server, I.E.: "http://USERNAME.techlaunch.online". Ask your professors for help if needed.
+Push your changes to GitHub and pull it into your TechLaunch server. Make sure it opens when you access to the root of the server, I.E.: "http://USERNAME.techlaunch.online". Ask your professors for help if needed.
